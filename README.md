@@ -1,4 +1,4 @@
-h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <em>
     Hi 👋, I am **Cliff** an enthusiastic and ambitious junior developer ✨<br>
@@ -48,5 +48,8 @@ h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLF
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
 
-
+<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
