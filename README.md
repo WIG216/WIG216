@@ -1,3 +1,4 @@
+h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <em>
     Hi 👋, I am **Cliff** an enthusiastic and ambitious junior developer ✨<br>
@@ -23,7 +24,7 @@
 ✔ I’m currently learning about **node js**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source web projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -46,8 +47,7 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&locale=en&theme=algolia" alt="ovi" width="410" />
 
 <hr>
