@@ -50,4 +50,3 @@ h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLF
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&locale=en&theme=algolia" alt="ovi" width="35%" />
 
-<hr>
