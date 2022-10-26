@@ -48,5 +48,5 @@ h1 align="center">Hi , I'm Cliff <img src="https://media.giphy.com/media/hvRJCLF
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&locale=en&theme=algolia" alt="ovi"/>
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&locale=en&theme=algolia" alt="ovi"/>
 
