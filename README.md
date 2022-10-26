@@ -28,7 +28,7 @@
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="center">
+<p align="left">
   <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -48,7 +48,7 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 
-<div display="flex">
+<div style="display=flex; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
   <img alt="EnthCliff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </div>
