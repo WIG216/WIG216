@@ -28,19 +28,24 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
-  <img src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+  
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
