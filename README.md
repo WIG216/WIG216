@@ -45,9 +45,13 @@
 </p>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+  </p>
  
+ <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WIG216&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" />
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img float="right" alt="EnthCliff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&count_private=true&theme=algolia" height="192px" align="right" /></a>
+  <img align = "right" alt="EnthCliff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WIG216&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+ </div>
+ 
 <br/>
 
